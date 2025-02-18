@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/lifez/tbd/compare/v1.0.0...v1.0.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* hotfix feat1 ([f457cae](https://github.com/lifez/tbd/commit/f457cae3e821ad426fe7e785b5823931d7b3410e))
+
 ## 1.0.0 (2025-02-18)
 
 
